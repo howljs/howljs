@@ -6,4 +6,7 @@ I'm a React Native developer from Vietnam, based in Ho Chi Minh city.
 - 💬 Ask me about anything related to React Native application
 - 📫 How to reach me: [Facebook](https://www.facebook.com/5515886)
 
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haujs&layout=compact&theme=dracula)](https://github.com/haujs)
+
 ![](https://komarev.com/ghpvc/?username=haujs)
