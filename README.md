@@ -33,4 +33,9 @@ I'm a React Native developer from Vietnam, based in Ho Chi Minh city.
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   0 secs          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
