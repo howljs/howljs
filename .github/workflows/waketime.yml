@@ -11,6 +11,6 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: howljs/wakatime-charts@master
+      - uses: howljs/howljs@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
