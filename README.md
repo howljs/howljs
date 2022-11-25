@@ -13,7 +13,7 @@ I'm a React Native developer from Vietnam, based in Ho Chi Minh city.
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=3178c6)](https://www.linkedin.com/in/howljs)
 
 
-## 💼 Languages and Tools
+## 💼 Skills
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=3178c6)
