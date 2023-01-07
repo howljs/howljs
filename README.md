@@ -35,11 +35,12 @@ I'm a React Native developer from Vietnam, based in Ho Chi Minh city.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   47 hrs 58 mins  ██████████████████████▓░░   90.31 %
-JavaScript   2 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-JSON         1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Dart         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TypeScript   41 hrs 13 mins  ██████████████████████▒░░   89.51 %
+JavaScript   2 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+JSON         1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Dart         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+MDX          14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+XML          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
