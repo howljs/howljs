@@ -35,11 +35,11 @@ I'm a React Native developer from Vietnam, based in Ho Chi Minh city.
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             17 hrs 11 mins  █████████████░░░░░░░░░░░░   51.39 %
-Other            5 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-Bash             4 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-Markdown         1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-YAML             1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Dart             19 hrs 18 mins  ███████████░░░░░░░░░░░░░░   43.45 %
+Other            6 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Bash             5 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Markdown         3 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+JavaScript       2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->
