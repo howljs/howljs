@@ -53,11 +53,11 @@ I'm a passionate Mobile Developer specializing in React Native, based in Ho Chi 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        51 hrs 41 mins  ███████████████████▒░░░░░   76.81 %
-JSON              3 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-JavaScript        3 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Prisma            2 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Other             1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+TypeScript        47 hrs 54 mins  ██████████████████░░░░░░░   71.59 %
+JSON              3 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Prisma            3 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Other             2 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+JavaScript        2 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
