@@ -53,11 +53,11 @@ I'm a passionate Mobile Developer specializing in React Native, based in Ho Chi 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          28 hrs 47 mins        ████████░░░░░░░░░░░░░░░░░   31.96 %
-C++               24 hrs 16 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
-TypeScript        24 hrs 11 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.85 %
-Objective-C++     6 hrs 47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-JSON              2 hrs 12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Markdown          28 hrs 23 mins        ████████▒░░░░░░░░░░░░░░░░   33.91 %
+TypeScript        24 hrs 57 mins        ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+C++               21 hrs 9 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.25 %
+Objective-C++     3 hrs 59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+JSON              1 hr 40 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
